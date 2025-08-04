@@ -1,4 +1,12 @@
 
+   <img src="https://media.tenor.com/X_m4x0tu6SEAAAAj/pink-pixel-hearts-cute-lolita-kawaii-soft.gif" alt="a row of pink hearts in pixel art on a white background"/><img width="200" height="37" alt="image" src="https://github.com/user-attachments/assets/ff103cdf-f8fd-4b20-8edd-b123763c2d0a" />
+
+  <img src="https://media.tenor.com/zdyPfB8IK04AAAAi/sonic-hedgehog.gif" alt="amy rose from the video game sonic the hedgehog is in a pixel art style"/>
+  
+   <img src="https://media.tenor.com/X_m4x0tu6SEAAAAj/pink-pixel-hearts-cute-lolita-kawaii-soft.gif" alt="a row of pink hearts in pixel art on a white background"/><img width="200" height="37" alt="image" src="https://github.com/user-attachments/assets/89387aa8-c57f-4575-bce2-299d1e0a1e10" />
+  
+   <img src="https://media.tenor.com/GGCSf9t0AdcAAAAi/project-sekai-emu-otori.gif" alt="a cartoon of a girl with pink hair and purple eyes saying `` that was fun ! &#39;&#39;"/>
+
 
 <!--
 **lotussvows/lotussvows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
